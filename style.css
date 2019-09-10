@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	border: 0;
+	padding: 0;
+	font-size: inherit;
+	font-family: inherit;
+	font-weight: inherit;
+	font-style: inherit;
+	border-collapse: collapse;
+	text-decoration: inherit;
+	color: inherit;
+	list-style: none;
+}
+
+*:focus {
+	outline: none;
+}
+
+:root {
+	font-family: "Georgia", serif;
+	font-size: 16px;
+	line-height: 1.9em;
+}
+
+:root, body {
+	width: 100vw;
+	max-width: 100%;
+	overflow-x: hidden;
+}
